@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Firebase,Scala**
+- 🌱 I’m currently learning **Python,Firebase,Scala,Selenium**
 
-- 💬 Ask me about **MEARN,Playwright**
+- 💬 Ask me about **MEARN,Playwright,SQL,Postman**
 
 - 📫 How to reach me **anudhid2@gmail.com**
 
