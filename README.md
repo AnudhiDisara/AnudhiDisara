@@ -1,9 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Anudhi Disara</h1>
-<h3 align="center">A passionate IT undergraduate from Sri Lanka</h3>
+<h3 align="center">An open minded, Quality Assurance Engineer from Sri Lanka</h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ I'm a passionate Quality Assurance Engineer, with a keen eye for detail and great communication skills, eager to work with a dynamic team.
+
+- My Final year research is on reconstruction of missing letters and words in a given handwritten Sinhala document, by comparing values obtained using a GPT model (fine tuned by using a Sinhala base model), and a proposed statistical model to predict the missing content.
+  
+- I successfully completed my 9 month internship as a QA intern at <a href="https://www.linkedin.com/company/pagero/posts/?feedView=all"> **Pagero**</a>, involving in both automation and manual testing.
 
 - 🌱 I’m currently learning **Python,Firebase,Scala,Selenium**
 
